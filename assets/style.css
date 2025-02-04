@@ -1,0 +1,12 @@
+﻿/* E:\MLBB-Turnir\assets\style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #1a1a1a;
+    color: #fff;
+}
+.tim-card {
+    background: #2d2d2d;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
