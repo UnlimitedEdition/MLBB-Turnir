@@ -1,0 +1,5 @@
+﻿AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .css .js
+<FilesMatch "\.(htm|html|css|js)$">
+    ForceType text/plain;charset=UTF-8
+</FilesMatch>

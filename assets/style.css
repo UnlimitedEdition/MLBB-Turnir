@@ -10,3 +10,26 @@ body {
     padding: 20px;
     margin: 10px;
 }
+
+/* Latin Extended Support */
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+@font-face {
+    font-family: 'LatinExtended';
+    src: url('https://fonts.gstatic.com/s/notosans/v25/o-0OIpQlx3QUlC5A4PNr6ARCQ_k.woff2') format('woff2');
+    unicode-range: U+0100-024F;
+}
+body { font-family: 'Noto Sans', sans-serif; }
+@font-face {
+    font-family: 'LatinExtended';
+    src: url('https://fonts.gstatic.com/s/notosans/v25/o-0OIpQlx3QUlC5A4PNr6ARCQ_k.woff2');
+    unicode-range: U+0100-024F;
+}
+body { font-family: 'Noto Sans', sans-serif; }
+@font-face {
+    font-family: 'LatinExtended';
+    src: url('https://fonts.gstatic.com/s/notosans/v25/o-0OIpQlx3QUlC5A4PNr6ARCQ_k.woff2');
+    unicode-range: U+0100-024F;
+}
